@@ -2,7 +2,7 @@
 🚀 About Me<br><br>🎓 B.Tech student in Artificial Intelligence & Data Science<br>📈 Passionate about analyzing data, building ML models, and solving real-world problems<br>💡 Skilled in combining data insights + development to create impactful solutions<br>🌱 Currently exploring advanced analytics, SQL, and scalable systems<br><br>🧠 What I Do<br><br>🔍 Analyze data to extract meaningful insights<br>🤖 Build machine learning models using Python<br>📊 Create visualizations to support decision-making<br>🌐 Develop responsive and modern web applications
 
 
-## 🌐 Socials:
+## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Saumya Rana](https://www.linkedin.com/in/saumya-rana-532b08375/)) 
 
 # 💻 Tech Stack:
